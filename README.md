@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I blend design with code to bring ideas to life. Also love storytelling and creating game logic!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/hafiza-tahreem-arshad)  
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/qfghgp-the-bashful)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafizatahrghgmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hafizabbrshad.lovable.app/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/qhtfjuoiu-the-bashful)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafizatahreemarshadgmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hafizatahreemarshad.lovable.app/)
 
 ---
 
