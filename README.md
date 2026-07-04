@@ -2,11 +2,11 @@
 
 **A passionate Software Engineer || Full Stack Developer || Tech Enthusiast from Pakistan**
 
-- 🔭 I’m currently working on: Web & App development projects, interactive storytelling platform, and automation tools  
-- 🌱 I’m currently learning: React.js, Next.js, Django, Flutter, Firebase, MySQL  
+- 🔭 I’m currently working on: Web development projects, interactive storytelling platform, and automation tools  
+- 🌱 I’m currently learning: React.js, Next.js, Django, Flutter, MongoDB, MySQL  
 - 👯‍♂️ I’m looking to collaborate on: Open-source web dev tools, AI-integrated projects, and creative UI/UX platforms  
 - 🤝 I’m looking for help with: Deploying full-stack apps on cloud and integrating third-party APIs  
-- 👮 Ask me about: Frontend, C++, HTML/CSS, Firebase, Canva, Python, Animation, Git  
+- 👮 Ask me about: Frontend, C++, HTML/CSS, Canva, Python, Animation, Git  
 - ⚡ Fun fact: I blend design with code to bring ideas to life. Also love storytelling and creating game logic!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/hafiza-tahreem-arshad)  
